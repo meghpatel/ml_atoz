@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import Imputer
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 
 #importing the dataset
 
@@ -34,3 +36,10 @@ X = ohe.fit_transform(X).toarray()
 
 
 #Splitting the Training and Test Dataset
+Xtrain, Xtest, Ytrain, Ytest = train_test_split(X,Y,test_size=0.2,random_state=0)
+
+
+#Feature Scaling
+sc_X=StandardScaler()
+Xtrain = sc_X.fit_transform(Xtrain)
+Xtest = sc_X.transform(Xtest)
