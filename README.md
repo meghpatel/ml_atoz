@@ -68,4 +68,36 @@ Machine learning tasks are typically classified into two broad categories, depen
 Machine Learning
 -------------
 
+ML is very popular.
+
+Machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to "learn" (e.g., progressively improve performance on a specific task) with data, without being explicitly programmed.[2]
+
+The name machine learning was coined in 1959 by Arthur Samuel.[1] Machine learning explores the study and construction of algorithms that can learn from and make predictions on data[3] – such algorithms overcome following strictly static program instructions by making data-driven predictions or decisions,[4]:2 through building a model from sample inputs. Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible; example applications include email filtering, detection of network intruders, and computer vision.
+
+Machine learning is closely related to (and often overlaps with) computational statistics, which also focuses on prediction-making through the use of computers. It has strong ties to mathematical optimization, which delivers methods, theory and application domains to the field. Machine learning is sometimes conflated with data mining,[5] where the latter subfield focuses more on exploratory data analysis and is known as unsupervised learning.[6][7]
+
+Within the field of data analytics, machine learning is a method used to devise complex models and algorithms that lend themselves to prediction; in commercial use, this is known as predictive analytics. These analytical models allow researchers, data scientists, engineers, and analysts to "produce reliable, repeatable decisions and results" and uncover "hidden insights" through learning from historical relationships and trends in the data.[8]
+Contents
+
+    1 Overview
+        1.1 Machine learning tasks
+        1.2 Machine learning applications
+    2 History and relationships to other fields
+        2.1 Relation to statistics
+    3 Theory
+    4 Approaches
+        4.1 Decision tree learning
+        4.2 Association rule learning
+        4.3 Artificial neural networks
+            4.3.1 Deep learning
+        4.4 Inductive logic programming
+        4.5 Support vector machines
+        4.6 Clustering
+        4.7 Bayesian networks
+        4.8 Reinforcement learning
+        4.9 Representation learning
+        4.10 Similarity and metric learning
+        4.11 Sparse dictionary learning
+        4.12 Genetic algorithms
+        4.13 Rule-based machine learning
 
