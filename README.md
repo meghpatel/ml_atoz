@@ -4,7 +4,7 @@ The link of Udemy course is https://www.udemy.com/machinelearning/
 
 Inline Link
 
-- [Machine Learning](https://github.com/meghpatel/ml_atoz#machine-learing)
+- [Machine Learning](https://github.com/meghpatel/ml_atoz#machine-learning)
 
 Machine learning is a field of computer science that uses statistical techniques to give computer systems the ability to "learn" (e.g., progressively improve performance on a specific task) with data, without being explicitly programmed.[2]
 
